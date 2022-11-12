@@ -1,0 +1,10 @@
+This is a voice controlled calculator made using python.
+Some of the modules used are - math, gtts, tkinter, random, playsound , speech_recognition
+It can do multiple functions , some of them are:-
+Addition
+Substraction
+Multiplication
+Power
+Trignometric functions
+Area of Square , Triangle , Rectangle , Circle
+Volume of Sphere, Cube , Cuboid , Cone , Cylinder 
